@@ -84,6 +84,6 @@ Analista de Infraestrutura Cloud na **TOTVS**, com foco em **continuidade operac
 <br />
 <sub>© 2026 · Pedro Henrique Troglio Hochsprung</sub>
 <br /><br />
-<img src="https://komarev.com/ghpvc/?username=goverllly&label=Total+de+visitas&color=0e75b6&style=flat-square" alt="Contador de visitas" />
+[![Profile Views](https://komarev.com/ghpvc/?username=goverllly&label=Visitas&color=0e75b6&style=for-the-badge)](https://github.com/goverllly)
 
 </div>
