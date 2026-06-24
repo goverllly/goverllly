@@ -6,10 +6,10 @@
 
 **Analista de Infraestrutura Cloud** · TOTVS · Santa Catarina, Brasil 🇧🇷
 
-[![Experience](https://img.shields.io/badge/Experi%C3%AAncia-8%2B%20anos-0e75b6?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/pedro-hochsprung)
-[![Focus](https://img.shields.io/badge/Foco-Cloud%20%26%20Networking-1f6feb?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/pedro-hochsprung)
-[![Status](https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20projetos-238636?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/pedro-hochsprung)
-[![Profile Views](https://komarev.com/ghpvc/?username=pedro-hochsprung&label=Visitas&color=0e75b6&style=for-the-badge)](https://github.com/pedro-hochsprung)
+[![Experience](https://img.shields.io/badge/Experi%C3%AAncia-8%2B%20anos-0e75b6?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/goverllly)
+[![Focus](https://img.shields.io/badge/Foco-Cloud%20%26%20Networking-1f6feb?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/goverllly)
+[![Status](https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20projetos-238636?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/goverllly)
+[![Profile Views](https://komarev.com/ghpvc/?username=goverllly&label=Visitas&color=0e75b6&style=for-the-badge)](https://github.com/goverllly)
 
 </div>
 
@@ -58,8 +58,8 @@ Analista de Infraestrutura Cloud na **TOTVS**, com foco em **continuidade operac
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pedro-hochsprung&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-hochsprung&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=goverllly&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goverllly&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
@@ -72,7 +72,7 @@ Analista de Infraestrutura Cloud na **TOTVS**, com foco em **continuidade operac
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-hochsprung/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547996747579)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohochsprung/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedro-hochsprung)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goverllly)
 
 </div>
 
@@ -84,6 +84,6 @@ Analista de Infraestrutura Cloud na **TOTVS**, com foco em **continuidade operac
 <br />
 <sub>© 2026 · Pedro Henrique Troglio Hochsprung</sub>
 <br /><br />
-<img src="https://komarev.com/ghpvc/?username=pedro-hochsprung&label=Total+de+visitas&color=0e75b6&style=flat-square" alt="Contador de visitas" />
+<img src="https://komarev.com/ghpvc/?username=goverllly&label=Total+de+visitas&color=0e75b6&style=flat-square" alt="Contador de visitas" />
 
 </div>
